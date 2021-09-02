@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 ### GitHub Stats
-![img](https://komarev.com/ghpvc/?username=siraom15&color=ff69b4)
+![img](https://komarev.com/ghpvc/?username=salmonindaeyo&color=ff69b4)
 
 <!-- ![](https://img.shields.io/github/followers/salmonindaeyo?style=plastic) -->
 <br>

@@ -12,3 +12,8 @@ Interested in
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmonindaeyo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+## Contact 
+
+phone : (+66) 61-412-9118 <br>
+email : nuttawat.ntww@gmail.com
